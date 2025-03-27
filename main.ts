@@ -96,7 +96,7 @@ searchResults.matches.forEach((match, i) => {
 
 // 6. Augment with LLM for Summarization & Insights
 const cohere = new Cohere({
-    apiKey: "tnHSprBaFlhNbMhiog20Pi4ola0Fo2xMacaoGUTj"
+    apiKey: Deno.env.get("COHERE_API_KEY") as string,
 });
 
 // Prepare context from matched chunks
