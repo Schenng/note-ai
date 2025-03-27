@@ -1,4 +1,4 @@
-Vibe coding to learn about deno, RAG w/ Cohere's models (embed-english-v3.0 and command), and Pinecone.
+Vibe coding to learn about deno, RAG w/ Cohere's models (embed-english-v3.0 and command), langchain chunking, and Pinecone.
 
 1. Load meeting notes from a file
 
