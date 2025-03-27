@@ -1,0 +1,50 @@
+Transcript of Sales Call - Acme Solutions
+Meeting ID: 854 9324 7701
+Date: March 19, 2024
+Duration: 32 minutes
+
+16:02:13 Sarah Johnson: Hi everyone, thanks for joining today's call. I'm Sarah from the sales team at CloudTech Solutions.
+
+16:02:20 John Martinez: Thanks for having us, Sarah. I'm John Martinez, IT Director at Acme Corp.
+
+16:02:28 Sarah Johnson: Great to meet you, John. I understand you're looking to upgrade your data analytics infrastructure?
+
+16:02:45 John Martinez: Yes, that's right. We're currently handling about 500TB of data monthly, and our current solution is becoming a bottleneck.
+
+16:03:01 Sarah Johnson: I completely understand. Let me share my screen to show you how CloudTech's Enterprise Analytics Suite could help address those challenges.
+
+16:03:15 Maria Chen: *Joined the meeting*
+
+16:03:18 Sarah Johnson: Hi Maria, welcome! Could you introduce yourself?
+
+16:03:25 Maria Chen: Hi everyone, Maria Chen here, Data Engineering Lead at Acme.
+
+16:04:02 Sarah Johnson: Perfect. As I was saying, our Enterprise Analytics Suite has helped companies like yours process up to 2PB of data monthly. Let me show you some benchmarks...
+
+16:08:45 Maria Chen: Quick question - what's your typical uptime SLA?
+
+16:08:52 Sarah Johnson: We guarantee 99.99% uptime with our enterprise tier, backed by our comprehensive SLA.
+
+16:09:15 John Martinez: And what about pricing? Our budget is around $50K annually.
+
+16:09:30 Sarah Johnson: The enterprise package that would suit your needs is priced at $45K annually, which includes 24/7 support and all premium features.
+
+16:10:05 Maria Chen: That sounds promising. Could you send us a detailed proposal?
+
+16:10:15 Sarah Johnson: Absolutely! I'll prepare that right after our call. Would you also like me to include information about our migration support?
+
+16:10:30 John Martinez: Yes, please. That would be helpful.
+
+[Several minutes of technical discussion...]
+
+16:30:45 Sarah Johnson: To summarize: I'll send over the full proposal including pricing, SLAs, and migration support by end of day. Would you like to schedule a technical deep-dive next week?
+
+16:31:02 John Martinez: Yes, let's do that. Tuesday afternoon works best for our team.
+
+16:31:15 Sarah Johnson: Perfect! I'll send a calendar invite. Thank you both for your time today.
+
+16:31:25 Maria Chen: Thanks, Sarah. Looking forward to the proposal.
+
+16:31:30 John Martinez: Thanks, bye everyone.
+
+Meeting Ended - Duration: 32 minutes
